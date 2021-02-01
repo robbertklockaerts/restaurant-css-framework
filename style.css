@@ -1,0 +1,26 @@
+html {
+  background: black;
+  margin-bottom: 5px;
+  font-size: larger;
+}
+
+
+
+body {
+  background: url(carrots.jpg) center;
+
+  -webkit-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  margin: 0px;
+
+  -webkit-filter: contrast(1.0);
+  filter: contrast(1.1);
+
+  
+}
+
+#divheight {
+  height: 200px;
+}
